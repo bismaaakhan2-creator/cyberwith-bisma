@@ -43,3 +43,4 @@ A SOC is where cybersecurity becomes real. Analysts don’t just watch alerts th
 Your first step? Try a free TryHackMe room or create a simple Wazuh lab. Start small, and keep learning one article at a time.
 
 If you found this helpful, follow me to see more cybersecurity articles from a student’s perspective.
+Follow my cybersecurity writing journey on Medium:  https://medium.com/@bismaaakhan2/what-is-a-soc-understanding-cybersecuritys-first-line-of-defense-187edb28ae2c
