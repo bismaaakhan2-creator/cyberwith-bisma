@@ -1,0 +1,86 @@
+The CIA Triad: Your First Step into Cybersecurity
+Before firewalls, before encryption, before any security tool there were three simple ideas. They’re still the foundation of everything we do in cybersecurity today.
+What If Someone Could Read Your WhatsApp Messages ?
+Imagine you’re texting a friend about something personal. You close the app, but somehow a stranger reads everything. 
+Now imagine someone changes your messages and makes it look like you said something you didn’t. 
+And finally, imagine you can’t open WhatsApp at all the app is just gone.
+This is why cybersecurity exists.
+
+Every single security measure in the world passwords, encryption, firewalls, backups exists to protect three simple things. These three things make up the CIA Triad, and it’s the very first concept every cybersecurity student learns.
+
+What Is the CIA Triad ?
+Think of it like your personal diary:
+
+1. Only you should read it (Confidentiality)
+
+2. No one should change your words (Integrity)
+
+3. You can open it whenever you want (Availability)
+
+Now let’s break down each one in detail.
+
+Confidentiality: Keeping Secrets Secret
+
+What It Is:
+Confidentiality means only authorized people can access data. If you’re not allowed to see something, you shouldn’t be able to see it.
+
+Real-World Example:
+Think about your Instagram DMs. You want only you and the person you’re messaging to read them. If a classmate somehow reads your private chats, that’s a breach of confidentiality
+
+How It’s Achieved:
+
+1. Passwords & PINs = Only the person who knows the password can access the account
+
+2. Encryption = Scrambles data so only someone with the “key” can read it
+
+3. Two-Factor Authentication (2FA) = Requires a second step like a code on your phone to verify it’s really you
+
+4. Access Controls = Defines who can view specific files or folders
+
+Attack That Breaks It:
+A phishing attack is the most common threat. Someone sends you a fake login page that looks real. You enter your password, and suddenly the attacker has access to all your accounts. Your confidentiality is compromised.
+
+Integrity: Keeping Data Accurate
+What It Is:
+Integrity means data is correct, complete, and trustworthy. No one should be able to change it without proper authorization.
+
+Real-World Example:
+You’re transferring $50 to a friend online. You enter $50, but a hacker intercepts and changes it to $500 before the bank receives it. The integrity of your transaction is broken the amount is no longer what you intended.
+
+How It’s Achieved:
+
+1. Hashing = Creates a unique “fingerprint” of data. If even one character changes, the fingerprint changes so you know it’s been tampered with.
+
+2. Digital Signatures = Proves the sender is who they say they are and the document hasn’t been altered.
+
+3. Checksums = Used when downloading files to verify nothing was corrupted or changed
+
+4. Audit Logs = Track who accessed or modified data and when.
+
+Attack That Breaks It:
+A man-in-the-middle attack is a classic example. A hacker positions themselves between you and a website, intercepting your communication and changing the data you’re sending or receiving. The integrity of your message is now lost.
+
+Availability: Keeping Data Accessible When Needed
+What It Is:
+Availability ensures that authorized users can access data and systems whenever they need to. If a system is down, it’s not available.
+
+Real-World Example:
+Think about your university’s portal during registration. Everyone is trying to log in at once, but the website keeps crashing. You can’t enroll in classes. The system is not available when you need it most.
+
+How It’s Achieved:
+
+1. Backups = Regular copies of data so it can be restored if lost.
+
+2. Redundancy = Duplicate systems so if one fails, another takes over.
+
+3. DDoS Protection = Prevents attackers from overwhelming servers and crashing them.
+
+4. Disaster Recovery Plans = Procedures to restore systems quickly after an incident.
+
+Attack That Breaks It:
+A DDoS (Distributed Denial of Service) attack floods a website with so much traffic that it slows down or crashes. The site becomes unavailable to normal users.
+
+A single successful attack can destroy all three pillars of the CIA Triad at once.
+
+Summary: The CIA Triad in Simple Words
+Remember: Good cybersecurity protects all three, not just one. A system that’s available but has no confidentiality. That’s like leaving your front door open. A system that’s private and accurate but crashes every day. That’s equally useless. The CIA Triad is the foundation because all three must work together.
